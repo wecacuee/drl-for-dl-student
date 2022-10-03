@@ -1,0 +1,11 @@
+/auto/
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+/media/Operant_Conditioning.mp4
